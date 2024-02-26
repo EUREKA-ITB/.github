@@ -1,2 +1,2 @@
-# .github
-EUREKA-ITB/.github is a ✨special ✨ repository that you can use to add README.md to your public organization profile, visible to anyone
+# EUREKA! ITB
+EUREKA! ITB adalah acara kompetisi fisika tahunan yang diselenggarakan oleh Himpunan Mahasiswa Fisika ITB (HIMAFI ITB) untuk anak-anak sekolah tingkat SMP maupun SMA.
